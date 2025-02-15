@@ -23,4 +23,3 @@ fastapi_app.add_middleware(
     allow_headers=["*"],
 )
 
-
